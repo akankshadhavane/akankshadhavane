@@ -67,14 +67,13 @@ I am pursuing a Bachelor's degree in Electronics and Computer Engineering. As a 
 
 </p>
 
-|<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akankshadhavane&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshadhavane&layout=compact&theme=buefy&hide_border=true" />
 </a>
- |
-| ------------- | ------------- |
+ 
 
 <!-- 
 ----
