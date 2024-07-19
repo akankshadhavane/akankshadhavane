@@ -13,7 +13,7 @@ I am pursuing a Bachelor's degree in Electronics and Computer Engineering. As a 
  **I am open to**:
 
 - Parttime Work & Internships,
-- Internships Web Developement Projescts,
+- Web Developement Projects,
 - data Analytics Internships,
 - Machine learning projects (development or research),
 
