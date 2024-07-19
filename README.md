@@ -1,6 +1,7 @@
-### Hi there, I'm [Durgesh Samariya](https://akankshadhavane.github.io) 👋
+### Hi there, I'm [Akanksha Dhavane](https://akankshadhavane.github.io) 👋
 
-I completed my PhD in Machine Learning from [Federation University](https://federation.edu.au), Australia. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+I am pursuing a Bachelor's degree in Electronics and Computer Engineering. As a passionate and philomath student, I am also a seasoned web developer currently working on deep learning projects and contributing to open source.
+
 
 **My Work Interest**:
 - Web Developing
